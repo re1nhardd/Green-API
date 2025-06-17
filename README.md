@@ -11,8 +11,7 @@ This project is a test assignment demonstrating the integration of the [Green-AP
 
 ## 📸 Live Demo
 
-👉 [Open the project in browser](https://your-username.github.io/green-api-test/)  
-*(Replace with your actual GitHub Pages link)*
+👉 [Open the project in browser]([https://your-username.github.io/green-api-test/](https://re1nhardd.github.io/Green-API/))  
 
 ---
 
